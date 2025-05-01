@@ -1,6 +1,6 @@
 # 🧮 My Calculator App
 
-An interactive and user-friendly calculator built using [Streamlit](https://streamlit.io/). This calculator supports basic arithmetic operations and includes a beautiful UI, real-time result display, and a calculation history log.
+An interactive and user-friendly calculator built using Streamlit. This calculator supports basic arithmetic operations and includes a beautiful UI, real-time result display, and a calculation history log.
 
 ---
 
